@@ -1,5 +1,5 @@
 # Lab 1
 
-for comp3111.
+for comp3111
 
 ![img.png](img.png)
